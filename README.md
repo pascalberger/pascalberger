@@ -12,5 +12,6 @@ I work on several open source projects, beside others:
 
 ### Where to find me
 
+<a rel="me" href="https://bsky.app/profile/hereispascal.bsky.social"><img style="max-width: 100%;" alt="" src="https://img.shields.io/badge/Bluesky-1DA1F2?style=for-the-badge&logo=bluesky&logoColor=white"></a>
 <a rel="me" href="https://mastodon.social/@pascalberger"><img style="max-width: 100%;" alt="" src="https://img.shields.io/badge/mastodon-%231DA1F2.svg?&style=for-the-badge&logo=mastodon&logoColor=white"></a>
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hereispascal)
